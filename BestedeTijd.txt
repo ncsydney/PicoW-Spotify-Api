@@ -1,5 +1,0 @@
-17-11-2022 > 2 uur gewerkt aan het werkend krijgen van de spotify api + json parsing
-18-11-2022 > 3 uur gewerkt aan het meer leesbaar te maken (Niet alle functies in 1 bestand zetten) # Ik loop vast op het versturen van een nieuw bericht als er een ander nummer afgespeeld wordt.
-23-11-22 > 2.5 uur gewerkt aan het mooier maken van de output: "Now PLaying: {songName} - {songArtist}" # probleem van 5 dagen geleden opgelost, ik hat mijn lijst in de while loop gezet wat voor de constante melding zorgde.
-29-12-22 > 50 minuten gewerkt aan comments toevoegen aan mijn code + variabelnamen duidleijker maken.
-02-02-23 > 30 minuten gewerkt aan de vervangen en pushen naar GitHub
